@@ -7,3 +7,5 @@ https://blog.akrv.xyz/?p=1003
 
 ############Gatttool#############
 https://dzone.com/articles/ble-pairing-the-raspberry-pi-3-model-b-with-hexiwear
+
+https://www.instructables.com/id/Control-Bluetooth-LE-Devices-From-A-Raspberry-Pi/
